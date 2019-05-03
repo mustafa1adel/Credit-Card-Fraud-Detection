@@ -1,6 +1,13 @@
 # Credit Card Fraud Detection
 Identify fraudulent credit card transactions. Using Support Vector Classifier
-
+## Required Liberaries and software
+1. python 3
+2. Scikit learn liberary
+3. pandas liberary
+4. numpy liberary
+5. Matplotlib liberary
+6. seaborn liberary
+7. kaggle API or you can skip my step to download the dataset and direct download it from https://www.kaggle.com/mlg-ulb/creditcardfraud
 ## Context
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
